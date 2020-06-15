@@ -18,4 +18,4 @@ A special mention goes to [@carlosfab](https://github.com/carlosfab) whose cours
 
 # Projects
 
-*In progress...*
+* [Airbnb Data Analysis](airbnb-data-analysis/Airbnb_Data_Analysis.ipynb)
